@@ -11,7 +11,7 @@ public class Calculator {
         double num2 = scanner.nextDouble();
 
         double sum = num1 + num2;
-        double diff = num1-num2
+        double diff = num1-num2;
        
 
         System.out.println("Sum: " + sum);
